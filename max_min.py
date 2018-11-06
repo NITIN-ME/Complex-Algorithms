@@ -1,3 +1,5 @@
+# log(n) time complexity
+
 def maxFinder(arr, low, high):
 	if(low == high):
 		return arr[low]
